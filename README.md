@@ -44,4 +44,4 @@ Other possible KPIs to consider for this project are:
 </p>
 
 
-[Visit My Tableau Profile](https://public.tableau.com/views/SuperStoreDatasetDashboardWithKPIs/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Visit My Tableau Portfolio](https://public.tableau.com/views/SuperStoreDatasetDashboardWithKPIs/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
