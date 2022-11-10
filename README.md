@@ -1,4 +1,4 @@
-# SuperStore-Dataset-Dashboard-With-KPIs-
+# SuperStore-Dataset-Dashboard-With-KPIs
 Using the Superstore dataset,I created a dashboard consisting of at least 2 KPIs,which were used to answer the business question for this project. 
 
 <h3>
@@ -37,6 +37,11 @@ Other possible KPIs to consider for this project are:
 
   Discounts by profit ratio
   </p>
+
+
+<p align="center">
+<img src="https://github.com/kedibeki/SuperStore-Dataset-Dashboard-With-KPIs-/blob/main/SuperStore%20Dataset%20(Dashboard%20With%20KPIs).png" alt=""/>
+</p>
 
 
 [Visit My Tableau Profile](https://public.tableau.com/views/SuperStoreDatasetDashboardWithKPIs/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
