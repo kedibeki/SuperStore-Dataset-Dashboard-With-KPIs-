@@ -1,5 +1,5 @@
 # SuperStore-Dataset-Dashboard-With-KPIs-
-Using the Superstore dataset provided, create a dashboard consisting of at least 2 KPIs, you identified in Module 2, that will be used to answer the business question for this project. 
+Using the Superstore dataset,I created a dashboard consisting of at least 2 KPIs,which were used to answer the business question for this project. 
 
 <h3>
 KPIs must apply at least one principle around KPIs learned in this Specialization, including:
